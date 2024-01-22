@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">Planets App Mike</string>
+    <string name="register_title">Add New User</string>
+
+    <string name="name_user">Name: </string>
+    <string name="name_user_description">Type Name</string>
+    <string name="last_name_user">Last Name: </string>
+    <string name="last_name_user_description">Type Last Name</string>
+    <string name="mothers_last_name_user">Mother´s Last Name: </string>
+    <string name="mothers_last_name_user_description">Type Mother´s Last Name</string>
+
+    <string name="name_user_validation">Name </string>
+    <string name="last_name_user_validation">Last Name </string>
+    <string name="mothers_last_name_user_validation">Mother´s Last Name </string>
+
+    <string name="birth_date">Birthdate: </string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="save">Save</string>
+    <string name="country">Country: </string>
+    <string name="value_is_empty">Please enter a valid value for: %s</string>
+    <string name="save_success">User saved successfully!!</string>
+    <string name="population">Population: </string>
+    <string name="rotation_period">Rotation Period: </string>
+    <string name="planets">List of Planets</string>
+    <string name="top_bar_description">Go back</string>
+    <string name="terrain">Type of Terrain: </string>
+    <string name="climate">Type of Climate: </string>
+    <string name="detail_title">Detail of Planet</string>
+
 </resources>
